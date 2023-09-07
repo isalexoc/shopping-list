@@ -108,6 +108,10 @@ header h1 {
   flex-wrap: wrap;
 }
 
+.edit-mode {
+  color: #ccc;
+}
+
 .items li {
   display: flex;
   justify-content: space-between;
